@@ -1,0 +1,3 @@
+﻿  ex08.c
+C:\Users\admin\source\repos\2024-05-18\2024-05-26\ex08.c(6,9): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  2024-05-26.vcxproj -> C:\Users\admin\source\repos\2024-05-18\x64\Debug\2024-05-26.exe

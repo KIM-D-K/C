@@ -1,0 +1,4 @@
+﻿  ex07.c
+C:\Users\admin\source\repos\2024-05-18\2024-05-19\ex07.c(10,6): error C2059: 구문 오류: '숫자의 접미사가 잘못되었습니다.'
+C:\Users\admin\source\repos\2024-05-18\2024-05-19\ex07.c(10,6): error C2143: 구문 오류: ';'이(가) '상수' 앞에 없습니다.
+C:\Users\admin\source\repos\2024-05-18\2024-05-19\ex07.c(10,6): warning C4091: ' ': 변수를 선언하지 않으면 'int' 왼쪽은 무시됩니다.
